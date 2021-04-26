@@ -1,0 +1,53 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: Lamicrate Crenshinibon <The Eternal Dream>, Mangler<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt>-----Back to Main Page-----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt">-----Back to "Requesting Raids" Walkthru-----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Scholars of Solusek Faction Grinding  < > < > < > < > < > </c><br>
+<a href="https://www.raspersrealm.com/Everquest/TSS/miscAGProgression.html?Stage=3">Rasper's Link</a> - <a href="https://everquest.allakhazam.com/db/faction.html?faction=489">ZAM Link</a><br>
+<br>
+Scholars of Solusek faction revolves around quests in the West wing of Ashengate. Ally is required for the Sothgar and Ashengate North raids. You start at -150 and need +1100 for Ally meaning a total of 1250 points.<br>
+To gain this faction you can work on three separate task arcs.<br>
+<br>
+Arcs can be repeated, but the tasks must be done in order. For example, if you complete a #3 you can't simply do it again, you need to first repeat #1 and #2 before being offered #3.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Pulizzi.txt>-----Pulizzi's Arc-----</a><br>
+<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Zhureni.txt>-----Zhureni's Arc-----</a><br>
+<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/ScholarsFaction.txt>-----Jenray's Arc-----</a><br>
+<br>
+<c "#0080ff">#1</c><br>
+<c "#00FF00">Mission Name:</c> Children of Flame<br>
+<c "#00FF00">NPC:</c> Jenray, Envoy of Ro<br>
+<c "#00FF00">Location:</c> Direwind Cliffs, near Ashengate zone in a tent (3040, -316).<br>
+<c "#00FF00">Keyword:</c> "superiority" (must unequip weapons)<br>
+<c "#00FF00">Details:</c> Right click the Incubator given to you on "a drake egg" in the western wing of Ashengate. Use it again on the baby drake that spawns from it to capture it. Eggs have a fast respawn.<br>
+<c "#00FF00">Faction Reward:</c> +125 with Scholars of Solusek<br>
+<br>
+<c "#0080ff">#2</c><br>
+<c "#00FF00">Mission Name:</c> A Daring Rescue<br>
+<c "#00FF00">NPC:</c> Jenray, Envoy of Ro<br>
+<c "#00FF00">Location:</c> Direwind Cliffs, near Ashengate zone in a tent (3040, -316).<br>
+<c "#00FF00">Keyword:</c> "superiority" (must unequip weapons)<br>
+<c "#00FF00">Details:</c> Go to the very back of the west wing to find the Arbitor of Ash (or its ph "an arbitor of ash"). When you kill it Hidaga spawns (1375, 725). She will stay up for 12 people to hail.<br>
+<c "#00FF00">Faction Reward:</c> +175 with Scholars of Solusek<br>
+<br>
+<c "#0080ff">#3</c><br>
+<c "#00FF00">Mission Name:</c> Under Pressure<br>
+<c "#00FF00">NPC:</c> Jenray, Envoy of Ro<br>
+<c "#00FF00">Location:</c> Direwind Cliffs, near Ashengate zone in a tent (3040, -316).<br>
+<c "#00FF00">Keyword:</c> "superiority" (must unequip weapons)<br>
+<c "#00FF00">Details:</c> Aquire a Lava Ooze Gland from ooze mobs and a Solusek Diamond from dervish mobs. Both are pre-lootable, hand them into Jenray.<br>
+<c "#00FF00">Faction Reward:</c> +225 with Scholars of Solusek<br>
+<c "#00FF00">Loot Reward:</c> +23AC +285HME Mask.<br>
+<br>

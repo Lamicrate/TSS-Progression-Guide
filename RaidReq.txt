@@ -1,0 +1,73 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+By: <a href="file:///storyline/TSS_Progression_Guide/Contact.txt">Lamicrate Crenshinibon</a>, <a href="https://discord.gg/cNnZvdy7Gm"><The Eternal Dream></a>, Mangler<br>
+Donation Link: <a href="https://www.paypal.com/donate?business=6NM4YLF254BHU&currency_code=USD">PAYPAL</a><br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/TSS/index.html">Rasper's TSS Link</a><br>
+<a href="https://everquest.allakhazam.com/wiki/Everquest_Guide_The_Serpent's_Spine">ZAM TSS Link</a>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<br>
+This expansion is a rather large one with zones ranging from level 1-75.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/WhatsNew.txt">----WHAT'S NEW----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/NewZones.txt">----NEW ZONES----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Travel.txt">----TRAVEL IN TSS----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Spells.txt">----SPELLS IN TSS----</a><br>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Noteable Group Tasks  < > < > < > < > < > </c><br>
+<br>
+There are several non-progression group tasks that offer decent rewards. I will include some of them below for convenience.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/GroupTasks.txt">---- GROUP TASKS----</a><br>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Overview  < > < > < > < > < > </c><br>
+<br>
+This expansion contains two "End-Teir" zones (separated into 5 instances); Frostcrypt and Ashengate. Both require a raid kill and ALLY faction grinding for everyone planning to attend.<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt">----RAID PARTICIPATION----</a><br>
+<br>
+<c "#ff0000">Ashengate East (AGE)</c><br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/TraitorsFaction.txt>Infiltrators and Traitors of Ashengate - Ally</a> (or 85'd)<br>
+<c “#00FF00”>Raids Required:</c> <a href="file:///storyline/TSS_Progression_Guide/Vergalid.txt>Vergalid's End</a> (or backflag)<br>
+<c “#00FF00”>NPC:</c> Zhubis the Griffon Tamer<br>
+<c “#00FF00”>Location:</c> Direwind Cliffs, South/southeast from Ashengate gate, across valley from Gatekeeper Kor (+960, -1045)<br>
+<c “#00FF00”>Keyword:</c> "enter Ashengate"<br>
+<c “#00FF00”>External Links:</c> Rasper's: <a href="https://www.raspersrealm.com/Everquest/TSS/miscAGProgression.html">Progression</a> - <a href="https://www.raspersrealm.com/Everquest/TSS/raidStitch.html">AGE</a> / ZAM: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4157>Progression</a> - <a href="https://everquest.allakhazam.com/db/quest.html?quest=4245">AGE</a> / <a href="http://www.eqfreelance.net/strats/strats-tss-ag.html">EQFreelance</a><br>
+<br>
+<c "#ff0000">Ashengate West (AGW)</c><br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/ScholarsFaction.txt>Scholars of Solusek - Ally</a> (or 85'd)<br>
+<c “#00FF00”>Raids Required:</c> <a href="file:///storyline/TSS_Progression_Guide/Vergalid.txt>Vergalid's End</a> (or backflag)<br>
+<c “#00FF00”>NPC:</c> Jenray, Envoy of Ro<br>
+<c “#00FF00”>Location:</c> Direwind Cliffs, in a tent, outside lava moat (+3000, -300)<br>
+<c “#00FF00”>Keyword:</c> "enter Ashengate"<br>
+<c “#00FF00”>External Links:</c> Rasper's: <a href="https://www.raspersrealm.com/Everquest/TSS/miscAGProgression.html>Progression</a> - <a href="https://www.raspersrealm.com/Everquest/TSS/raidSothgar.html>AGW</a> / ZAM: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4157>Progression</a> - <a href="https://everquest.allakhazam.com/db/quest.html?quest=4246>AGW</a> / <a href="http://www.eqfreelance.net/strats/strats-tss-ag.html">EQFreelance</a><br>
+<br>
+<c "#ff0000">Ashengate North (AGN)</c><br>
+<c “#00FF00”>Faction Required:</c> Both AGW and AGE Factions - Ally<br>
+<c “#00FF00”>Raids Required: </c><a href="file:///storyline/TSS_Progression_Guide/Vergalid.txt>Vergalid's End</a>, Sothgar the Twiceborn in AGW, Stitch in AGE (or backflag)<br>
+<c “#00FF00”>NPC:</c> Master Drizzlorn Un<br>
+<c “#00FF00”>Location:</c> Direwind Cliffs, click on statue in lavafall near Jenray, Envoy of Ro to be ported to Master Drizzlorn's area. Statue will appear once raid leader triggers it from Jenray.<br>
+<c “#00FF00”>Keyword:</c> "enter Ashengate"<br>
+<c “#00FF00”>External Links:</c> Rasper's: <a href="https://www.raspersrealm.com/Everquest/TSS/miscAGProgression.html">Progression</a> - <a href="https://www.raspersrealm.com/Everquest/TSS/raidAshengate.html">AGN</a> / ZAM: <a href="https://everquest.allakhazam.com/db/quest.html?quest=4157>Progression</a> - <a href="https://everquest.allakhazam.com/db/quest.html?quest=4247">AGN</a> / <a href="http://www.eqfreelance.net/strats/strats-tss-ag.html">EQFreelance</a><br>
+<br>
+<c "#ff0000">Frostcrypt 1 & 2 (FC1, FC2)</c><br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/WraithguardFaction.txt>Wraithguard Leadership - Ally</a> (or 85'd)<br>
+<c “#00FF00”>Raids Required:</c> <a href="file:///storyline/TSS_Progression_Guide/Odeen.txt>Speak With the King</a> (or backflag)<br>
+<c “#00FF00”>Group Tasks Required:</c> <a href="file:///storyline/TSS_Progression_Guide/Intercepted Correspondence.txt">Intercepted Correspondence</a>, <a href="file:///storyline/TSS_Progression_Guide/LostLetter.txt">Lost Letter</a>, <a href="file:///storyline/TSS_Progression_Guide/Confession.txt">Confession</a>.<br>
+<c “#00FF00”>NPC:</c> Wraithguard Sergeant Thavin<br>
+<c “#00FF00”>Location:</c> Valdeholm<br>
+<c “#00FF00”>Keyword:</c> "Fergarin" (FC1), "Haesgrin" (FC2)<br>
+<c “#00FF00”>External Links:</c> Rasper's: <a href="https://www.raspersrealm.com/Everquest/TSS/miscFCProgression.html">Progression</a> - <a href="https://www.raspersrealm.com/Everquest/TSS/raidFrostcrypt1.html>FC1</a> - <a href="https://www.raspersrealm.com/Everquest/TSS/raidFrostcrypt2.html>FC2</a> / ZAM: <a href="https://everquest.allakhazam.com/db/quest.html?quest=3854>FC1</a> - <a href="https://everquest.allakhazam.com/db/quest.html?quest=4150>FC2</a> / <a href="http://www.eqfreelance.net/strats/strats-tss-fc.html">EQFreelance</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt">-----REQUESTING RAIDS-----</a><br>
+<br>

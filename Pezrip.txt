@@ -1,0 +1,58 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: Lamicrate Crenshinibon <The Eternal Dream>, Mangler<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt>-----Back to Main Page-----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Infiltrators and Traitors of Ashengate Faction Grinding  < > < > < > < > < > </c><br>
+<a href="https://www.raspersrealm.com/Everquest/TSS/miscAGProgression.html?Stage=2">Rasper's Link</a> - <a href="https://everquest.allakhazam.com/db/faction.html?faction=494">ZAM Link</a><br>
+<br>
+Infiltrators and Traitors of Ashengate faction revolves around quests in the East wing of Ashengate. Ally is required for the Stitch and Ashengate North raids. You start at -150 and need +1100 for Ally meaning a total of 1250 points.<br>
+To gain this faction you can work on three separate task arcs.<br>
+<br>
+Arcs can be repeated, but the tasks must be done in order. For example, if you complete a #3 you can't simply do it again, you need to first repeat #1 and #2 before being offered #3.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TraitorsFaction.txt>-----Pezripisid's Arc-----</a><br>
+<br>
+<c "#0080ff">#1</c><br>
+<c "#00FF00">Mission Name:</c> The Armies of Dyn`leth<br>
+<c "#00FF00">NPC:</c> Pezripisid<br>
+<c "#00FF00">Location:</c> Sunderock Springs, (-1160, 555)<br>
+<c "#00FF00">Keyword:</c> "I am sorry"<br>
+<c "#00FF00">Details:</c> Kill 20 mobs, Destroy 5 crates.<br>
+<c "#00FF00">Faction Reward:</c> +150<br>
+<br>
+<c "#0080ff">#2</c><br>
+<c "#00FF00">Mission Name:</c> Unchecked Aggression<br>
+<c "#00FF00">NPC:</c> Pezripisid<br>
+<c "#00FF00">Location:</c> Sunderock Springs, (-1160, 555)<br>
+<c "#00FF00">Keyword:</c> at the end of the previous task, "sorry"<br>
+<c "#00FF00">Details:</c> Kill 10 mobs + 1 sergeant.<br>
+<c "#00FF00">Faction Reward:</c> +150<br>
+<br>
+<c "#0080ff">#3</c><br>
+<c "#00FF00">Mission Name:</c> Bittersweet Memories<br>
+<c "#00FF00">NPC:</c> Pezripisid<br>
+<c "#00FF00">Location:</c> Sunderock Springs, (-1160, 555)<br>
+<c "#00FF00">Keyword:</c> at the end of the previous task, "sorry"<br>
+<c "#00FF00">Details:</c> Kill 10 mobs, Break 5 eggs, Kill a boss. Deep in AGE.<br>
+<c "#00FF00">Faction Reward:</c> +165<br>
+<br>
+<c "#0080ff">#4</c><br>
+<c "#00FF00">Mission Name:</c> Violence Begets Violence<br>
+<c "#00FF00">NPC:</c> Pezripisid<br>
+<c "#00FF00">Location:</c> Sunderock Springs, (-1160, 555)<br>
+<c "#00FF00">Keyword:</c> at the end of the previous task, "sorry"<br>
+<c "#00FF00">Details:</c> Kill Overseer Lhazetius's 4 Bodyguards and beat him down to 10%. Do not overdamage. Equip the whip and click it to whip him until task updates.<br>
+<c "#00FF00">Faction Reward:</c> +185<br>
+<c "#00FF00">Loot Reward:</c> +7AC +265 H/M/E +2HDEX Range Item<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Zhubis.txt>-----Zhubis's Arc-----</a><br>
+<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Yssuria.txt>-----Y`ssuria the Elder's Arc-----</a><br>
+<br>

@@ -1,0 +1,105 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: Lamicrate Crenshinibon <The Eternal Dream>, Mangler<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt>-----Back to Main Page-----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt>-----Back to "Requesting Raids" Walkthru-----</a><br>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Speak with the King  < > < > < > < > < > </c><br>
+<a href="https://www.raspersrealm.com/Everquest/TSS/raidOdeen.html">Rasper's Link</a> - <a href="https://everquest.allakhazam.com/db/quest.html?quest=3955">ZAM Link</a><br>
+<br>
+<c "#0080ff">King Odeen Raid</c><br>
+This is a 54-man raid task consisting of 2 loot dropping bosses. There are no requirements to participate.<br>
+<br>
+<c "#00FF00">NPC:</c> Fergarin Bardon I<br>
+<c "#00FF00">Location:</c> Valdeholm, in the back room beihind Wraithguard Heimgul, (770, -780)<br>
+<c "#00FF00">Request Phrase:</c> "take care of"<br>
+<c "#00FF00">Entry Location:</c> Valdeholm, click door at compass location.<br>
+<c "#00FF00">Request Requirements:</c> Fergarin's 3 group tasks and 2 previous raids, Kangur and Udengar. Ally faction.<br>
+<br>
+<c "#0080ff">----Royal Captain Gurangor----</c><br>
+As you approach the gates to the northeast you'll find Herald Kelion. Tell him "We challenge the might of Royal Captain Gurangor" to start the event.<br>
+You will need to kill a bunch of giants including 5 named:<br>
+<c "#ff0000">High Priest Utok</c><br>
+Periodically casts a 50k heal on another giant. He can also revive dead giants, so needs to be killed first. Rooted in place. No information on melee.<br>
+<c "#ff0000">Arch Wizard S`Sitari</c><br>
+Leader of a squad of 4 permarooted Wizards. While alive he will emote "Wizards of Zek, focus your attacks on Lamicrate!" which is followed by all wizards casting Ether Flames, a 6k Single target nuke with a 10s cast.<br>
+<c "#ff0000">Lead Archer Hoseph</c><br>
+Leader of a squad of permarooted Archers. While alive a random player will get an emote starting with "You notice a glint". This is followed by all the archers casting Explosive Flames, an 8k AE targeted around that player.<br>
+<c "#ff0000">Warguard Hanlo</c><br>
+Assumed pure melee.<br>
+<c "#ff0000">Royal Captain Gurangor</c><br>
+AE rampage, must die last. Rez and rebuff before killing him since the moment he dies you have 15 minutes to initiate the Odeen script or the instance resets.<br>
+<br>
+<c "#0080ff">----King Odeen----</c><br>
+<c "#0080ff">In the Throne Room</c><br>
+After the Royal Captain event the gate to the palace unlocks and you may proceed towards King Odeen's throne.<br>
+Upon arriving you find King Odeen, Faelig Bearcaller, and Hethgar the Fell standing there. They aggro upon approach.<br>
+Behind Odeen's throne is High Lorekeeper Thair. You'll want to kill all 3 mini bosses, leaving Odeen for last.<br>
+Doing this out of order may cause this part of the event to reset.<br>
+<br>
+<c "#ff0000">Hethgar the Fell</c><br>
+Procs a 7k DD with a 60 SECOND STUN. Must be killed first. Flurries, Enrages.<br>
+<c "#ff0000">High Lorekeeper Thair</c><br>
+Casts Ritual of the Rapt, a long range AoE 12 second mez, once every 30 or 60 seconds. May be able to use line of sight to avoid. Enrages.<br>
+<c "#ff0000">Faelig Bearcaller</c><br>
+Summons a pet, "Bearclaw". AE Rampages, Enrages.<br>
+<c "#ff0000">King Odeen</c><br>
+Flurries, AE Rampages. After all adds are clear, take him to 59%, at which point he will flee.<br>
+You have 15 minutes from this emote to start the next phase:<br>
+"King Odeen flees up the stairs and disappears through the door"<br>
+<br>
+<c "#0080ff">----King Odeen----</c><br>
+<c "#0080ff">In the Meeting Room</c><br>
+Proceed up the steps behind the throne to find the second part of Odeen's event.<br>
+You'll find Commander Clanghor the Savage and 8 Royal Guardsman.<br>
+You must kill the guardsmen and the Commander to proceed with the event.<br>
+<br>
+<c "#ff0000">Commander Clanghor the Savage</c><br>
+Hits hard and AE Rampages. Kill the guards first.<br>
+You have 15 minutes from this emote to start the next phase:<br>
+"Commander Clanghor the Savage's corpse pitches forward and bleeds across the ice"<br>
+<br>
+After the Commander has fallen, you may proceed by opening the three doors that are in his room.<br>
+Only one of these doors spawn King Odeen and his 6 named guards. The other two will each spawn 6 Royal Guardians inside them.<br>
+The room that has the King and his named guards is random every time; if you are lucky enough to pick the correct door on the first try, you do not have to bother with the remaining doors.<br>
+It is important to kill all the other nameds BEFORE you bring Odeen down to 50% health.<br>
+<br>
+<c "#ff0000">Serjar, Highkeeper of Arts</c><br>
+Has a nasty single target nuke/dot/debuff.<br>
+<c "#ff0000">Geriok, Highkeeper of War</c><br>
+unknown<br>
+<c "#ff0000">Rentik, Highkeeper of Ages</c><br>
+unknown<br>
+<c "#ff0000">Teltet, Highkeeper of Crypts</c><br>
+Supposedly spawns adds when others die.<br>
+<c "#ff0000">Wigni, Highkeeper of Ritual</c><br>
+Some type of healer.<br>
+<c "#ff0000">a Highkeeper revenant</c><br>
+Trash<br>
+<c "#ff0000">King Odeen</c><br>
+Flurries, AE Rampages. After all adds are clear, take him to 49%, at which point he will flee again.<br>
+You have 15 minutes from this emote to start the next phase:<br>
+"The Lorekeepers place their king into a protective stasis"<br>
+<br>
+<c "#0080ff">----King Odeen----</c><br>
+<c "#0080ff">At the Springs</c><br>
+Your raid must backtrack to the hotsprings where you'll find Odeen.<br>
+During this part of the event he calls for help from much of the surrounding trash. You'll have to fight him while dealing with a lot of adds and he is immune to spells during this phase.<br>
+Take him to 34% at which point he flees yet again<br>
+You have 15 minutes from this emote to start the next phase:<br>
+"King Odeen rushes out the city gate in a desperate attempt to flee his deadly foes"<br>
+<br>
+<c "#0080ff">----King Odeen----</c><br>
+<c "#0080ff">On the Bridge to Icefall</c><br>
+Your raid must now move to the bridge area. King Odeen is surrounded by shieldmen  which cast a knockback on anyone approaching them.<br>
+Use any form of DA (self, bestow, bard group, etc) to get through. Once inside mages can coh others.<br>
+Take King Odeen down to 15% where he will finally yield and spawn a chest.<br>
+After following his dialog, have someone hail Fergarin to complete the raid task and reward everyone with +300 Wraithguard Leadership faction.<br>
+<br>
