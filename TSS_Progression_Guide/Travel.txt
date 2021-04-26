@@ -1,0 +1,52 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+By: <a href="file:///storyline/TSS_Progression_Guide/Contact.txt">Lamicrate Crenshinibon</a>, <a href="https://discord.gg/cNnZvdy7Gm"><The Eternal Dream></a>, Mangler<br>
+Donation Link: <a href="https://www.paypal.com/donate?business=6NM4YLF254BHU&currency_code=USD">PAYPAL</a><br>
+<br>
+<a href="https://www.raspersrealm.com/Everquest/TSS/index.html">Rasper's TSS Link</a><br>
+<a href="https://everquest.allakhazam.com/wiki/Everquest_Guide_The_Serpent's_Spine">ZAM TSS Link</a>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Expansion Overview  < > < > < > < > < > </c><br>
+<br>
+This expansion is a rather large one with zones ranging from level 1-75.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/WhatsNew.txt">----WHAT'S NEW----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/NewZones.txt">----NEW ZONES----</a><br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt">----TRAVEL IN TSS----</a><br>
+<c "#7f7f7f">The Blightfire Moors</c> can be ran to via Highpass Hold.<br>
+<c "#7f7f7f">The Blightfire Moors</c> can be reached via the <c "#7f7f7f">Crescent Reach</c> PoK stone.<br>
+Goru`kar Mesa can be reached by the Guild Hall portal.<br>
+Wizards can port to <c "#7f7f7f">Blightfire Moors</c>, Sunderock Sprints, and <c "#ffff00">Icefall Glacier</c>.<br>
+Druids can port to <c "#7f7f7f">Blightfire Moors</c>, <c "#ffff00">Direwind Cliffs</c>, and The Steppes.<br>
+One character per account recieves "Scepter of Draconic Calling" via /claim 10. Clicky <c "#7f7f7f">Crescent Reach</c> portal 72h reuse.<br>
+<br>
+<c "#0080ff">Path to Ashengate</c><br>
+<c "#7f7f7f">Blightfire Moors</c> -> <c "#00ffff">Goru`kar Mesa</c> -> Sunderock Springs -> <c "#ffff00">Direwind Cliffs</c> -> <c "#ff0000">Ashengate</c><br>
+<br>
+<c "#0080ff">Path to Frostcrypt</c><br>
+<c "#7f7f7f">Blightfire Moors</c> -> <c "#00ffff">Goru`kar Mesa</c> -> The Steppes -> <c "#ffff00">Icefall Glacier</c> -> <c "#ffff00">Valdeholm</C> -> <c "#ff0000">Frostcrypt</c>.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/Spells.txt">----SPELLS IN TSS----</a><br>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Noteable Group Tasks  < > < > < > < > < > </c><br>
+<br>
+There are several non-progression group tasks that offer decent rewards. I will include some of them below for convenience.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/GroupTasks.txt">---- GROUP TASKS----</a><br>
+<br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Raid Overview  < > < > < > < > < > </c><br>
+<br>
+This expansion contains two "End-Teir" zones (separated into 5 instances); Frostcrypt and Ashengate. Both require a raid kill and ALLY faction grinding for everyone planning to attend.<br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/RaidReq.txt">----RAID PARTICIPATION----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt">-----REQUESTING RAIDS-----</a><br>
+<br>

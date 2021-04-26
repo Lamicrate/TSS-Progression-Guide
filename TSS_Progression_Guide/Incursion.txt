@@ -1,0 +1,37 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: Lamicrate Crenshinibon <The Eternal Dream>, Mangler<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt">-----Back to Main Page-----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt">-----Back to "Requesting Raids" Walkthru-----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/WraithguardFaction.txt">-----Back to Wraithguard Faction Grinding-----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Incursion  < > < > < > < > < > </c><br>
+<c "#0080ff">Wraithguard Leadership Faction Mission</c><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=3939">ZAM Link</a><br>
+<br>
+<c "#00FF00">Mission Type:</c> Group<br>
+<c "#00FF00">NPC:</c> Commander Haesgrin<br>
+<c "#00FF00">Location:</c> Valdeholm, (-1575, -690)<br>
+<c "#00FF00">Request Phrase:</c> "reports"<br>
+<c "#00FF00">Request Requirements:</c> High Dubious (-150) with Wraithguard Leadership<br>
+<c "#00FF00">Rewards:</c> +300 Wraithguard Leadership Faction<br>
+<br>
+<c "#00FF00">Speak with Wraithguard Hunter Grethmar</c><br>
+Speak with Wraithguard Hunter Grethmar at (-2450, 660) right outside the Frostcrypt ZL.<br>
+<c "#00FF00">Enter Frostcrypt and meet up with Grethmar</c><br>
+Grethmar and two guards will be at the zone in. Hail him.<br>
+<c "#00FF00">Keep Grethmar and his guards alive</c><br>
+They will stop when you /say "stop", as well as "move". They will aggro on any mobs around them.<br>
+<c "#00FF00">Destroy whatever is menacing the incursion forces of the Wraithguard</c><br>
+At some point, Warlord Vongar, the Relentless will spawn. Slay him and head back to the zone-in for completion.<br>
+<br>
+One theory is that he spawns in the West wing. After killing him, they say you have to engage/kill a mob or so to get the task going properly again.<br>
+Another theory on this mission is to spam move/stop over and over (possibly with a hotkey) to Grethmar right at the zone in for about 2-3 minutes. This causes the boss to spawn right there. Once he is dead, do some more move/stop commands to get the task going again.<br>
+<br>

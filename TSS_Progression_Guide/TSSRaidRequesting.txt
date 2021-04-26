@@ -1,0 +1,68 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: <a href="file:///storyline/TSS_Progression_Guide/Contact.txt">Lamicrate Crenshinibon</a>, <a href="https://discord.gg/cNnZvdy7Gm"><The Eternal Dream></a>, Mangler<br>
+Donation Link: <a href="https://www.paypal.com/donate?business=6NM4YLF254BHU&currency_code=USD">PAYPAL</a><br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt>-----Back to Main Page-----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > Requesting Raids  < > < > < > < > < > </c><br>
+<a href="https://everquest.allakhazam.com/wiki/Everquest_Guide_The_Serpent's_Spine">ZAM TSS Link</a><br>
+<br>
+<c "#ff0000">Ashengate East & West (AGE, AGW)</c><br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/TraitorsFaction.txt>Infiltrators and Traitors of Ashengate</a> (AGE)<br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/ScholarsFaction.txt>Scholars of Solusek</a> (AGW)<br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=4157">ZAM Link</a><br>
+<c “#00FF00”>Captain Zheren's Arc</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/ScoutingSunderock.txt">1-----Scouting Sunderock</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/DynlethsArtillery.txt">2-----Dyn`leth's Artillery</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/AshengateOrders.txt">3-----The Ashengate Orders</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/DynlethsMine.txt">4-----Dyn`leth's Mine</a> (solo)<br>
+<c “#00FF00”>Sergeant Kazzar's Arc</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/Kellak.txt">1-----Into the Leviathan's Lair</a> (24-man raid)<br>
+<a href="file:///storyline/TSS_Progression_Guide/Vergalid.txt">2-----Vergalid's End</a> (54-man raid)<br>
+<c “#CCCC00”>**You MUST have these two solo tasks on you before entering Vergalid's End instance:</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/Pretender.txt">The Pretender</a> from Zhubis the Griffin Tamer (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/SeveringStrings.txt">Severing the Strings</a> from Jenray, Envoy of Ro (solo)<br>
+------------------------------------------------<br>
+<c “#00FF00”>NPC:</c> Zhubis the Griffon Tamer (AGE), Jenray, Envoy of Ro (AGW)<br>
+<c “#00FF00”>Location:</c> Direwind Cliffs<br>
+<c “#00FF00”>Keyword: </c>"I am ready to challenge him" (AGE), "Give me a greater challenge" (AGW)<br>
+<br>
+<c "#ff0000">Ashengate North (AGN)</c><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=4157">ZAM Link</a><br>
+All above AGE & AGW progression completed + Ally w/ both factions<br>
+<c “#CCCC00”>**You MUST have these two solo tasks on you before raiding AGE or AGW:</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/ComplexDiversion.txt">A Complex Diversion</a> from Zhubis the Griffin Tamer (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/GhostsPast.txt">Ghosts From the Past</a> from Jenray, Envoy of Ro (solo)<br>
+<c “#00FF00”>Zhubis's Arc</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/ZhubisRaidReq.txt">1-----Sabotage</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/ZhubisRaidReq.txt">2-----Project Disarm</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/ZhubisRaidReq.txt">3-----The Weakest Link</a> (solo)<br>
+<a href="file:///storyline/TSS_Progression_Guide/ZhubisRaidReq.txt">4-----Locate Drizzlorn</a> (solo)<br>
+------------------------------------------------<br>
+<c “#00FF00”>NPC:</c> Master Drizzlorn Un<br>
+<c “#00FF00”>Location:</c> Direwind Cliffs<br>
+<c “#00FF00”>Keyword:</c> "chance"<br>
+<c “#CCCC00”>** You must request "Locate Drizzlorn" and say "ready" to Jenray, Envoy of Ro which will trigger a stone statue to appear in the lavafall next to Jenray's tent.
+Everyone in the raid must then click on this statue to be ported up to a secret location, still in open world Direwind Cliffs. From here you will then have access to Master Drizzlorn.</c><br>
+<br>
+<c "#ff0000">Frostcrypt 1 & 2 (FC1, FC2)</c><br>
+<c “#00FF00”>Faction Required:</c> <a href="file:///storyline/TSS_Progression_Guide/WraithguardFaction.txt>Wraithguard Leadership</a><br>
+<c “#00FF00”>Access to Fengarin - Ally w/ Wraithguard Leadership required</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/BypassHeimgul.txt">Bypass Heimgul</a> - 3 'Mark of Rallos Zek'<br>
+<c “#00FF00”>Fergarin's Arc - Ally w/ Wraithguard Leadership to request all</c><br>
+<a href="file:///storyline/TSS_Progression_Guide/Intercepted Correspondence.txt">1-----Intercepted Correspondence</a> (group)<br>
+<a href="file:///storyline/TSS_Progression_Guide/LostLetter.txt">2-----Lost Letter</a> (group)<br>
+<a href="file:///storyline/TSS_Progression_Guide/Confession.txt">3-----Confession</a> (group)<br>
+<a href="file:///storyline/TSS_Progression_Guide/Kangur.txt">4-----Kill Kangur</a> (24-man raid)<br>
+<a href="file:///storyline/TSS_Progression_Guide/Udengar.txt">5-----Udengar the Traitor</a> (54-man raid)<br>
+<a href="file:///storyline/TSS_Progression_Guide/Odeen.txt">6-----Speak With the King</a> (54-man raid)<br>
+------------------------------------------------<br>
+<c “#00FF00”>NPC:</c> Fergarin Bardon I<br>
+<c “#00FF00”>Location:</c> Valdeholm<br>
+<c “#00FF00”>Keyword:</c> "Frostcrypt"<br>
+<br>

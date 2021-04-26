@@ -1,0 +1,31 @@
+TSS Progression Guide
+<br>
+==============================================================<br>
+<c "#ff7700">The Serpent's Spine Progression Guide</c><br>
+==============================================================<br>
+<br>
+By: Lamicrate Crenshinibon <The Eternal Dream>, Mangler<br>
+<br>
+<a href="file:///storyline/storySerpentSpineProgression.txt">-----Back to Main Page-----</a><br>
+<br>
+<a href="file:///storyline/TSS_Progression_Guide/TSSRaidRequesting.txt">-----Back to "Requesting Raids" Walkthru-----</a><br>
+<br>
+<c "#0080ff">  < > < > < > < > < > The Ashengate Orders  < > < > < > < > < > </c><br>
+<c "#0080ff">Zheren's Arc #3</c><br>
+<a href="https://everquest.allakhazam.com/db/quest.html?quest=3693">ZAM Link</a><br>
+<br>
+<c "#00FF00">Mission Type:</c> Solo<br>
+<c "#00FF00">NPC:</c> Captain Zheren<br>
+<c "#00FF00">Location:</c> Sunderock Springs, (-1225, 620)<br>
+<c "#00FF00">Request Phrase:</c> "cause"<br>
+<c "#00FF00">Rewards:</c> +5 Crusade of the Scale faction, Progression<br>
+<br>
+<c "#00FF00">Stop the Courier from Reaching the Mines</c><br>
+"Dyn`Leth's Courier" is accompanied by 4 guards, spawns at the Direwind ZL and paths towards the Vergalid Mines. They are immune to changes in run speed and they are very weak. 20min respawn.<br>
+<br>
+<c "#00FF00">Finish the guards lest they warn the enemy</c><br>
+Kill all 4 guards.<br>
+<br>
+<c "#00FF00">Return to Captain Zheren</c><br>
+Completing this task opens up the 4th mission in his Arc, <a href="file:///storyline/TSS_Progression_Guide/DynlethsMine.txt">Dyn`leth's Mine</a>.<br>
+<br>
